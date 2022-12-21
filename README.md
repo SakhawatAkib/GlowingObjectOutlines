@@ -1,1 +1,1 @@
-# GlowingObjectOutlines
+# Glowing Object Outlines
